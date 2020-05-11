@@ -18,12 +18,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Dmstr\\_____\\": "src"
+            "dmstr\\_____\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Dmstr\\_____\\Tests\\": "tests"
+            "dmstr\\_____\\tests\\": "tests"
         }
     },
     "extra": {
